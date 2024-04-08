@@ -1,0 +1,5 @@
+Instructuions
+
+Step 1. Retrieve an API key from WillyWeather 
+Step 2. Insert the key into the WeatherDataFetcher script: public string APIKey = "";
+Step 3. Run the application
