@@ -20,9 +20,9 @@ namespace WeatherGUI
         // Stores the current date in YYYY-MM-DD format, used in API requests.
         private string currentDate = DateTime.Now.ToString("yyyy-MM-dd");
 
-    // Asynchronously fetches weather data in XML format from the Bureau of Meteorology (BOM).
-    public async Task<string> FetchXMLData()
-    {
+        // Asynchronously fetches weather data in XML format from the Bureau of Meteorology (BOM).
+        public async Task<string> FetchXMLData()
+        {
            
             string bomUrl = "ftp://ftp.bom.gov.au/anon/gen/fwo/IDW11160.xml"; // URL for the BOM FTP server to download weather data.
             FtpWebRequest ftpRequest = (FtpWebRequest)WebRequest.Create(bomUrl);// Sets up an FTP request to the BOM URL.
@@ -48,8 +48,9 @@ namespace WeatherGUI
                 return null; // Returns null to indicate failure.
 
             }
+
         }
-        // Asynchronously fetches tide data for Perth from the weather API.
+            // Asynchronously fetches tide data for Perth from the weather API.
         public async Task<string> FetchTideData()
         {
             // Constructs the URL to request tide data.
