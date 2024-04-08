@@ -1,5 +1,5 @@
 # FishingTime
-An application I made using visual studio to present data of weather to determine a good day to go fishing. The application uses BOM and WillyWeather API's to retrieve data. The application then extracts that data and processes it.
+An application I made using visual studio to present data of weather to determine a good day to go fishing. The application uses BOM and WillyWeather API's to retrieve data. The application then extracts that data and processes it. You will need visual studio to input your API key.
 
 # To use
 1. download and run the WeatherGUI.sln file (you will need visual studio)
