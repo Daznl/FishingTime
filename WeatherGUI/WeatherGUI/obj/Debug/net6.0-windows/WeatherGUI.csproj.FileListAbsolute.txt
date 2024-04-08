@@ -17,3 +17,22 @@ C:\Coding Stuff\WeatherGUI\WeatherGUI\bin\Debug\net6.0-windows\Newtonsoft.Json.d
 C:\Coding Stuff\WeatherGUI\WeatherGUI\obj\Debug\net6.0-windows\WeatherGUI.csproj.AssemblyReference.cache
 C:\Coding Stuff\WeatherGUI\WeatherGUI\obj\Debug\net6.0-windows\WeatherGUI.csproj.CopyComplete
 C:\Coding Stuff\WeatherGUI\WeatherGUI\obj\Debug\net6.0-windows\WeatherGUI.DayInfo.resources
+C:\Users\danie\OneDrive\Desktop\WeatherGUI\WeatherGUI\bin\Debug\net6.0-windows\WeatherGUI.exe
+C:\Users\danie\OneDrive\Desktop\WeatherGUI\WeatherGUI\bin\Debug\net6.0-windows\WeatherGUI.deps.json
+C:\Users\danie\OneDrive\Desktop\WeatherGUI\WeatherGUI\bin\Debug\net6.0-windows\WeatherGUI.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\WeatherGUI\WeatherGUI\bin\Debug\net6.0-windows\WeatherGUI.dll
+C:\Users\danie\OneDrive\Desktop\WeatherGUI\WeatherGUI\bin\Debug\net6.0-windows\WeatherGUI.pdb
+C:\Users\danie\OneDrive\Desktop\WeatherGUI\WeatherGUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\danie\OneDrive\Desktop\WeatherGUI\WeatherGUI\obj\Debug\net6.0-windows\WeatherGUI.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\WeatherGUI\WeatherGUI\obj\Debug\net6.0-windows\WeatherGUI.DayInfo.resources
+C:\Users\danie\OneDrive\Desktop\WeatherGUI\WeatherGUI\obj\Debug\net6.0-windows\WeatherGUI.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Desktop\WeatherGUI\WeatherGUI\obj\Debug\net6.0-windows\WeatherGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\WeatherGUI\WeatherGUI\obj\Debug\net6.0-windows\WeatherGUI.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\WeatherGUI\WeatherGUI\obj\Debug\net6.0-windows\WeatherGUI.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\WeatherGUI\WeatherGUI\obj\Debug\net6.0-windows\WeatherGUI.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\WeatherGUI\WeatherGUI\obj\Debug\net6.0-windows\WeatherGUI.csproj.CopyComplete
+C:\Users\danie\OneDrive\Desktop\WeatherGUI\WeatherGUI\obj\Debug\net6.0-windows\WeatherGUI.dll
+C:\Users\danie\OneDrive\Desktop\WeatherGUI\WeatherGUI\obj\Debug\net6.0-windows\refint\WeatherGUI.dll
+C:\Users\danie\OneDrive\Desktop\WeatherGUI\WeatherGUI\obj\Debug\net6.0-windows\WeatherGUI.pdb
+C:\Users\danie\OneDrive\Desktop\WeatherGUI\WeatherGUI\obj\Debug\net6.0-windows\WeatherGUI.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\WeatherGUI\WeatherGUI\obj\Debug\net6.0-windows\ref\WeatherGUI.dll
